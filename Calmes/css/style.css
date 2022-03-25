@@ -418,6 +418,9 @@ ul a
 {
     width: 100%;
     font-size: 20px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
     
 }
 .general_boxes h6
@@ -540,11 +543,20 @@ ul a
     
     flex-direction: column;
 }
+.i
+{
+    color: #e2bb53;
+}
+.box_text ins
+{
+    color: #ea4a34;
+}
 
 .box_text a
 {
     text-decoration: none;
     color: #fff;
+    
     
 }
 .box_text p
